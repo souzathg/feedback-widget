@@ -1,4 +1,3 @@
-import { create } from "domain";
 import { SubmitFeedbackUseCase } from "./submit-feedback-use-case";
 
 const createFeedbackSpy = jest.fn();
