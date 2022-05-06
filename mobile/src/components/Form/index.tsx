@@ -94,7 +94,7 @@ export function Form({
       <TextInput
         multiline
         style={styles.input}
-        placeholder="Algo não está funcionando bem? Queremos corrigir. Conte com detalhes o que está acontecendo..."
+        placeholder={feedbackTypeInfo.placeholder}
         placeholderTextColor={theme.colors.text_secondary}
         autoCorrect={false}
         onChangeText={setComment}
