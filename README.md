@@ -7,3 +7,6 @@ No back-end foram utilizadas as ferramentas Prisma, TypeScript, Node.js, e Jest 
 O mobile foi desenvolvido usando ReactNative e Expo.
 
 Espero que goste!
+
+Com carinho,
+Thiago
